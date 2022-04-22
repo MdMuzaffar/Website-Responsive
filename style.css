@@ -1,0 +1,53 @@
+
+.container{
+    display: flex
+
+}
+.img-fluid {
+    background-position: fixed;
+    background-size: 450px;
+    background-size: 300px 100px;
+}
+.languages{
+    padding: 15px;
+}
+.ar{
+    text-align: center;
+    color: rgb(62, 62, 107);
+    font-size: 50px;
+}
+
+.row {
+    padding-bottom: 5px;
+
+}
+i.icon{
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+    font-weight: 55px;
+    margin: 0 auto;
+    text-align: center;
+    display:block;    
+    padding-top: 50px;
+    box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+    }
+
+    i.icon:hover {
+        color: rgb(150, 145, 143) ;
+        transition: 1.0s;
+    }
+    s.size {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+    }
+
+    .con{   
+        background-color: rgb(124, 122, 122);
+        
+    }
+    .fa fa-mobile {
+        fontwid width: 50px;
+        height: 50px;
+        
+    }
